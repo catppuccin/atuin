@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-frappe-mauve"
+
+[colors]
+AlertInfo = "#a6d189"
+AlertWarn = "#e5c890"
+AlertError = "#e78284"
+Annotation = "#ca9ee6"
+Base = "#c6d0f5"
+Guidance = "#ca9ee6"
+Important = "#ca9ee6"
+Title = "#ca9ee6"

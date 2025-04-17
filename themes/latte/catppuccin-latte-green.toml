@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-latte-green"
+
+[colors]
+AlertInfo = "#40a02b"
+AlertWarn = "#df8e1d"
+AlertError = "#d20f39"
+Annotation = "#40a02b"
+Base = "#4c4f69"
+Guidance = "#40a02b"
+Important = "#40a02b"
+Title = "#40a02b"

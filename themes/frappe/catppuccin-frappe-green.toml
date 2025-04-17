@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-frappe-green"
+
+[colors]
+AlertInfo = "#a6d189"
+AlertWarn = "#e5c890"
+AlertError = "#e78284"
+Annotation = "#a6d189"
+Base = "#c6d0f5"
+Guidance = "#a6d189"
+Important = "#a6d189"
+Title = "#a6d189"

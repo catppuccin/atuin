@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-latte-lavender"
+
+[colors]
+AlertInfo = "#40a02b"
+AlertWarn = "#df8e1d"
+AlertError = "#d20f39"
+Annotation = "#7287fd"
+Base = "#4c4f69"
+Guidance = "#7287fd"
+Important = "#7287fd"
+Title = "#7287fd"

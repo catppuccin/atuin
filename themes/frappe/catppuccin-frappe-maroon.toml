@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-frappe-maroon"
+
+[colors]
+AlertInfo = "#a6d189"
+AlertWarn = "#e5c890"
+AlertError = "#e78284"
+Annotation = "#ea999c"
+Base = "#c6d0f5"
+Guidance = "#ea999c"
+Important = "#ea999c"
+Title = "#ea999c"

@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-macchiato-yellow"
+
+[colors]
+AlertInfo = "#a6da95"
+AlertWarn = "#eed49f"
+AlertError = "#ed8796"
+Annotation = "#eed49f"
+Base = "#cad3f5"
+Guidance = "#eed49f"
+Important = "#eed49f"
+Title = "#eed49f"

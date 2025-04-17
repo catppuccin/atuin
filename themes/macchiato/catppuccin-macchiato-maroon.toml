@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-macchiato-maroon"
+
+[colors]
+AlertInfo = "#a6da95"
+AlertWarn = "#eed49f"
+AlertError = "#ed8796"
+Annotation = "#ee99a0"
+Base = "#cad3f5"
+Guidance = "#ee99a0"
+Important = "#ee99a0"
+Title = "#ee99a0"

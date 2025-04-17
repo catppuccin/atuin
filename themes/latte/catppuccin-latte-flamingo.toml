@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-latte-flamingo"
+
+[colors]
+AlertInfo = "#40a02b"
+AlertWarn = "#df8e1d"
+AlertError = "#d20f39"
+Annotation = "#dd7878"
+Base = "#4c4f69"
+Guidance = "#dd7878"
+Important = "#dd7878"
+Title = "#dd7878"

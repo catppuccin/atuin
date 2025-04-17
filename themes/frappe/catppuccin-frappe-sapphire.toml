@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-frappe-sapphire"
+
+[colors]
+AlertInfo = "#a6d189"
+AlertWarn = "#e5c890"
+AlertError = "#e78284"
+Annotation = "#85c1dc"
+Base = "#c6d0f5"
+Guidance = "#85c1dc"
+Important = "#85c1dc"
+Title = "#85c1dc"

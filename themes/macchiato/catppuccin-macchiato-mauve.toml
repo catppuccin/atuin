@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-macchiato-mauve"
+
+[colors]
+AlertInfo = "#a6da95"
+AlertWarn = "#eed49f"
+AlertError = "#ed8796"
+Annotation = "#c6a0f6"
+Base = "#cad3f5"
+Guidance = "#c6a0f6"
+Important = "#c6a0f6"
+Title = "#c6a0f6"

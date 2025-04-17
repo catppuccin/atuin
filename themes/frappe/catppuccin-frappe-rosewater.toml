@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-frappe-rosewater"
+
+[colors]
+AlertInfo = "#a6d189"
+AlertWarn = "#e5c890"
+AlertError = "#e78284"
+Annotation = "#f2d5cf"
+Base = "#c6d0f5"
+Guidance = "#f2d5cf"
+Important = "#f2d5cf"
+Title = "#f2d5cf"

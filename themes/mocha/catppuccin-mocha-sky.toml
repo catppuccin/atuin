@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-mocha-sky"
+
+[colors]
+AlertInfo = "#a6e3a1"
+AlertWarn = "#f9e2af"
+AlertError = "#f38ba8"
+Annotation = "#89dceb"
+Base = "#cdd6f4"
+Guidance = "#89dceb"
+Important = "#89dceb"
+Title = "#89dceb"

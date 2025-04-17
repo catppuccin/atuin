@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-latte-sky"
+
+[colors]
+AlertInfo = "#40a02b"
+AlertWarn = "#df8e1d"
+AlertError = "#d20f39"
+Annotation = "#04a5e5"
+Base = "#4c4f69"
+Guidance = "#04a5e5"
+Important = "#04a5e5"
+Title = "#04a5e5"

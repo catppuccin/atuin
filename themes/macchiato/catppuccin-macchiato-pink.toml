@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-macchiato-pink"
+
+[colors]
+AlertInfo = "#a6da95"
+AlertWarn = "#eed49f"
+AlertError = "#ed8796"
+Annotation = "#f5bde6"
+Base = "#cad3f5"
+Guidance = "#f5bde6"
+Important = "#f5bde6"
+Title = "#f5bde6"

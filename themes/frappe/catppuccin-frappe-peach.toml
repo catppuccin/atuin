@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-frappe-peach"
+
+[colors]
+AlertInfo = "#a6d189"
+AlertWarn = "#e5c890"
+AlertError = "#e78284"
+Annotation = "#ef9f76"
+Base = "#c6d0f5"
+Guidance = "#ef9f76"
+Important = "#ef9f76"
+Title = "#ef9f76"

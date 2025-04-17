@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-latte-peach"
+
+[colors]
+AlertInfo = "#40a02b"
+AlertWarn = "#df8e1d"
+AlertError = "#d20f39"
+Annotation = "#fe640b"
+Base = "#4c4f69"
+Guidance = "#fe640b"
+Important = "#fe640b"
+Title = "#fe640b"

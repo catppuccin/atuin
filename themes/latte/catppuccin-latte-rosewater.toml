@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-latte-rosewater"
+
+[colors]
+AlertInfo = "#40a02b"
+AlertWarn = "#df8e1d"
+AlertError = "#d20f39"
+Annotation = "#dc8a78"
+Base = "#4c4f69"
+Guidance = "#dc8a78"
+Important = "#dc8a78"
+Title = "#dc8a78"

@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-frappe-teal"
+
+[colors]
+AlertInfo = "#a6d189"
+AlertWarn = "#e5c890"
+AlertError = "#e78284"
+Annotation = "#81c8be"
+Base = "#c6d0f5"
+Guidance = "#81c8be"
+Important = "#81c8be"
+Title = "#81c8be"

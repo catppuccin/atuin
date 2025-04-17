@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-latte-maroon"
+
+[colors]
+AlertInfo = "#40a02b"
+AlertWarn = "#df8e1d"
+AlertError = "#d20f39"
+Annotation = "#e64553"
+Base = "#4c4f69"
+Guidance = "#e64553"
+Important = "#e64553"
+Title = "#e64553"

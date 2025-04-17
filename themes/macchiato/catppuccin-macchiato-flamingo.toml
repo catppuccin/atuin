@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-macchiato-flamingo"
+
+[colors]
+AlertInfo = "#a6da95"
+AlertWarn = "#eed49f"
+AlertError = "#ed8796"
+Annotation = "#f0c6c6"
+Base = "#cad3f5"
+Guidance = "#f0c6c6"
+Important = "#f0c6c6"
+Title = "#f0c6c6"

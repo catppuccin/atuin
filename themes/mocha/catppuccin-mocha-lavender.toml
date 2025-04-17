@@ -1,0 +1,12 @@
+[theme]
+name = "catppuccin-mocha-lavender"
+
+[colors]
+AlertInfo = "#a6e3a1"
+AlertWarn = "#f9e2af"
+AlertError = "#f38ba8"
+Annotation = "#b4befe"
+Base = "#cdd6f4"
+Guidance = "#b4befe"
+Important = "#b4befe"
+Title = "#b4befe"
