@@ -3,10 +3,10 @@ name = "catppuccin-frappe-red"
 
 [colors]
 AlertInfo = "#a6d189"
-AlertWarn = "#e5c890"
+AlertWarn = "#ef9f76"
 AlertError = "#e78284"
 Annotation = "#e78284"
 Base = "#c6d0f5"
-Guidance = "#e78284"
+Guidance = "#949cbb"
 Important = "#e78284"
 Title = "#e78284"

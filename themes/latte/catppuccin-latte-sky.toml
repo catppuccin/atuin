@@ -3,10 +3,10 @@ name = "catppuccin-latte-sky"
 
 [colors]
 AlertInfo = "#40a02b"
-AlertWarn = "#df8e1d"
+AlertWarn = "#fe640b"
 AlertError = "#d20f39"
 Annotation = "#04a5e5"
 Base = "#4c4f69"
-Guidance = "#04a5e5"
-Important = "#04a5e5"
+Guidance = "#7c7f93"
+Important = "#d20f39"
 Title = "#04a5e5"

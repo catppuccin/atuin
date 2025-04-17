@@ -3,10 +3,10 @@ name = "catppuccin-macchiato-maroon"
 
 [colors]
 AlertInfo = "#a6da95"
-AlertWarn = "#eed49f"
+AlertWarn = "#f5a97f"
 AlertError = "#ed8796"
 Annotation = "#ee99a0"
 Base = "#cad3f5"
-Guidance = "#ee99a0"
-Important = "#ee99a0"
+Guidance = "#939ab7"
+Important = "#ed8796"
 Title = "#ee99a0"

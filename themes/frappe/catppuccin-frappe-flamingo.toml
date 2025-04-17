@@ -3,10 +3,10 @@ name = "catppuccin-frappe-flamingo"
 
 [colors]
 AlertInfo = "#a6d189"
-AlertWarn = "#e5c890"
+AlertWarn = "#ef9f76"
 AlertError = "#e78284"
 Annotation = "#eebebe"
 Base = "#c6d0f5"
-Guidance = "#eebebe"
-Important = "#eebebe"
+Guidance = "#949cbb"
+Important = "#e78284"
 Title = "#eebebe"

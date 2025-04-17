@@ -3,10 +3,10 @@ name = "catppuccin-mocha-green"
 
 [colors]
 AlertInfo = "#a6e3a1"
-AlertWarn = "#f9e2af"
+AlertWarn = "#fab387"
 AlertError = "#f38ba8"
 Annotation = "#a6e3a1"
 Base = "#cdd6f4"
-Guidance = "#a6e3a1"
-Important = "#a6e3a1"
+Guidance = "#9399b2"
+Important = "#f38ba8"
 Title = "#a6e3a1"

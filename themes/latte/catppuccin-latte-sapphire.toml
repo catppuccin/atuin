@@ -3,10 +3,10 @@ name = "catppuccin-latte-sapphire"
 
 [colors]
 AlertInfo = "#40a02b"
-AlertWarn = "#df8e1d"
+AlertWarn = "#fe640b"
 AlertError = "#d20f39"
 Annotation = "#209fb5"
 Base = "#4c4f69"
-Guidance = "#209fb5"
-Important = "#209fb5"
+Guidance = "#7c7f93"
+Important = "#d20f39"
 Title = "#209fb5"
