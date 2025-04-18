@@ -6,9 +6,9 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/ruiiiijiiiiang/atuin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/ruiiiijiiiiang/atuin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/ruiiiijiiiiang/atuin?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/atuin/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/atuin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/atuin/issues"><img src="https://img.shields.io/github/issues/catppuccin/atuin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/atuin/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/atuin?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -36,15 +36,14 @@
 
 ## Usage
 
-1. Ensure the directory `~/.config/atuin/themes/` exists; create it if needed.
-2. Download the flavor and accent combination of your choice.
-3. Move the downloaded theme file to `~/.config/atuin/themes/`.
-4. Edit `~/.config/atuin/config.toml` and make sure it includes a `theme` table and a name for the theme you want to use. I.E.:
+1. Download the flavor and accent combination of your choice from the [themes](./themes) directory.
+2. Move the downloaded theme file to `~/.config/atuin/themes/`.
+3. Set the theme in your `~/.config/atuin/config.toml` file with the name of your downloaded theme, for example:
 
-```
-[theme]
-name = "catppuccin-mocha-mauve"
-```
+   ```
+   [theme]
+   name = "catppuccin-mocha-mauve"
+   ```
 
 ## 💝 Thanks to
 
