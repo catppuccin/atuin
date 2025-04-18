@@ -36,9 +36,10 @@
 
 ## Usage
 
-1. Download the flavor and accent combination of your choice.
-2. Move the theme file to `~/.config/atuin/themes/` (create the directory if needed).
-3. Edit `~/.config/atuin/config.toml` and make sure it includes a `theme` table and a name for the theme you want to use. I.E.:
+1. Ensure the directory `~/.config/atuin/themes/` exists; create it if needed.
+2. Download the flavor and accent combination of your choice.
+3. Move the downloaded theme file to `~/.config/atuin/themes/`.
+4. Edit `~/.config/atuin/config.toml` and make sure it includes a `theme` table and a name for the theme you want to use. I.E.:
 
 ```
 [theme]
